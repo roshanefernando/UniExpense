@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">වියදම් ගණකය</string>
+    <string name="splash_subtitle">ඉතිරි කිරීමට සැලසුම් කරමු</string>
+
+    <string name="select_language">භාෂාව තෝරන්න</string>
+    <string name="btn_continue">ඉදිරියට යන්න</string>
+    <string name="lang_english">English</string>
+    <string name="lang_sinhala">සිංහල</string>
+    <string name="lang_tamil">தமிழ்</string>
+
+    <string name="login_title">පිවිසෙන්න</string>
+    <string name="email_hint">විද්‍යුත් තැපෑල</string>
+    <string name="password_hint">මුරපදය</string>
+    <string name="btn_login">පිවිසෙන්න</string>
+    <string name="forgot_password">මුරපදය අමතකද?</string>
+    <string name="no_account_register">ගිණුමක් නැද්ද? ලියාපදිංචි වන්න</string>
+    <string name="invalid_credentials">වලංගු නොවන විද්‍යුත් තැපෑල හෝ මුරපදය.</string>
+    <string name="empty_fields_error">කරුණාකර සියලුම ක්ෂේත්‍ර පුරවන්න.</string>
+    <string name="invalid_email_error">කරුණාකර වලංගු විද්‍යුත් තැපැල් ලිපිනයක් ඇතුළත් කරන්න.</string>
+
+    <string name="register_title">ගිණුමක් සාදන්න</string>
+    <string name="full_name_hint">සම්පූර්ණ නම</string>
+    <string name="confirm_password_hint">මුරපදය තහවුරු කරන්න</string>
+    <string name="btn_register">ලියාපදිංචි වන්න</string>
+    <string name="back_to_login">පිවිසුමට ආපසු යන්න</string>
+    <string name="registration_success">ගිණුම සාර්ථකව සාදන ලදී. කරුණාකර පිවිසෙන්න.</string>
+    <string name="passwords_do_not_match">මුරපද නොගැලපේ.</string>
+    <string name="password_too_short">මුරපදයේ අවම වශයෙන් අක්ෂර 6ක් තිබිය යුතුය.</string>
+    <string name="email_already_exists">මෙම විද්‍යුත් තැපෑලෙන් ගිණුමක් දැනටමත් පවතී.</string>
+    <string name="name_required">නම අවශ්‍යයි.</string>
+
+    <string name="forgot_password_title">මුරපදය යළි සකසන්න</string>
+    <string name="reset_password_button">මුරපදය යළි සකසන්න</string>
+    <string name="email_not_found">මෙම විද්‍යුත් තැපෑලෙන් ගිණුමක් හමු නොවීය.</string>
+    <string name="password_reset_success">මුරපදය යළි සකසන ලදී. නව මුරපදයෙන් පිවිසෙන්න.</string>
+
+    <string name="dashboard_title">උපකරණ පුවරුව</string>
+    <string name="total_income">මුළු ආදායම</string>
+    <string name="total_expenses">මුළු වියදම්</string>
+    <string name="remaining_balance">ඉතිරි ශේෂය</string>
+    <string name="monthly_budget">මාසික අයවැය</string>
+    <string name="remaining_budget">ඉතිරි අයවැය</string>
+    <string name="add_expense">වියදමක් එක් කරන්න</string>
+    <string name="add_income">ආදායමක් එක් කරන්න</string>
+    <string name="expense_history">වියදම් ඉතිහාසය</string>
+    <string name="budget">අයවැය</string>
+    <string name="reports">වාර්තා</string>
+    <string name="profile">පැතිකඩ</string>
+    <string name="home">මුල් පිටුව</string>
+    <string name="recent_expenses">මෑත වියදම්</string>
+    <string name="no_expenses_yet">තවම වියදම් සටහන් වී නැත.</string>
+    <string name="no_income_yet">තවම ආදායම් සටහන් වී නැත.</string>
+    <string name="budget_warning_exceeded">අවවාදයයි: ඔබ ඔබේ මාසික අයවැය ඉක්මවා ඇත.</string>
+    <string name="budget_warning_near">අවවාදයයි: ඔබ ඔබේ මාසික අයවැයෙන් වැඩි කොටසක් භාවිතා කර ඇත.</string>
+    <string name="greeting">ආයුබෝවන්, %1$s</string>
+
+    <string name="add_expense_title">වියදමක් එක් කරන්න</string>
+    <string name="edit_expense_title">වියදම සංස්කරණය කරන්න</string>
+    <string name="category_label">වර්ගය</string>
+    <string name="amount_label">මුදල</string>
+    <string name="date_label">දිනය</string>
+    <string name="note_label">සටහන (විකල්ප)</string>
+    <string name="save_expense">වියදම සුරකින්න</string>
+    <string name="btn_cancel">අවලංගු කරන්න</string>
+    <string name="amount_must_be_positive">මුදල ශුන්‍යයට වඩා වැඩි සංඛ්‍යාවක් විය යුතුය.</string>
+    <string name="category_required">කරුණාකර වර්ගයක් තෝරන්න.</string>
+    <string name="invalid_date">කරුණාකර වලංගු දිනයක් තෝරන්න.</string>
+    <string name="expense_saved">වියදම සුරකින ලදී.</string>
+    <string name="expense_updated">වියදම යාවත්කාලීන කරන ලදී.</string>
+
+    <string name="add_income_title">ආදායමක් එක් කරන්න</string>
+    <string name="source_label">මූලාශ්‍රය</string>
+    <string name="income_saved">ආදායම සුරකින ලදී.</string>
+    <string name="btn_save">සුරකින්න</string>
+
+    <string name="expense_history_search_hint">වර්ගය හෝ සටහන සොයන්න</string>
+    <string name="filter_all_categories">සියලුම වර්ග</string>
+    <string name="sort_newest">අලුත්ම මුලින්</string>
+    <string name="sort_oldest">පැරණිම මුලින්</string>
+    <string name="sort_amount_high">මුදල: වැඩි සිට අඩු</string>
+    <string name="sort_amount_low">මුදල: අඩු සිට වැඩි</string>
+    <string name="btn_edit">සංස්කරණය</string>
+    <string name="btn_delete">මකන්න</string>
+    <string name="delete_confirm_title">වියදම මකන්නද?</string>
+    <string name="delete_confirm_message">ඔබට මෙම වියදම මැකීමට අවශ්‍ය බව විශ්වාසද?</string>
+    <string name="yes">ඔව්</string>
+    <string name="no">නැත</string>
+    <string name="no_expenses_recorded">තවම වියදම් සටහන් වී නැත.</string>
+    <string name="this_month">මෙම මාසය</string>
+    <string name="all_time">සියලු කාලය</string>
+
+    <string name="budget_title">මාසික අයවැය</string>
+    <string name="set_monthly_budget">මාසික අයවැය සකසන්න</string>
+    <string name="save_budget">සුරකින්න</string>
+    <string name="spent_label">වැය කළ</string>
+    <string name="remaining_label">ඉතිරි</string>
+    <string name="used_label">භාවිත කළ</string>
+    <string name="no_budget_set">මාසික අයවැයක් සකසා නැත.</string>
+    <string name="budget_exceeded_by">අයවැය %1$s කින් ඉක්මවා ඇත</string>
+    <string name="budget_amount_hint">මුදල ඇතුළත් කරන්න</string>
+    <string name="budget_saved">අයවැය සුරකින ලදී.</string>
+
+    <string name="reports_title">වාර්තා</string>
+    <string name="summary_label">සාරාංශය</string>
+    <string name="category_breakdown">වර්ග අනුව බෙදීම</string>
+    <string name="monthly_summary">මාසික වියදම් සාරාංශය</string>
+    <string name="current_month">වර්තමාන මාසය</string>
+    <string name="previous_month">පෙර මාසය</string>
+    <string name="not_enough_data">වාර්තාවක් සෑදීමට ප්‍රමාණවත් දත්ත නොමැත.</string>
+    <string name="balance">ශේෂය</string>
+
+    <string name="profile_title">පැතිකඩ</string>
+    <string name="edit_profile">පැතිකඩ සංස්කරණය කරන්න</string>
+    <string name="change_language">භාෂාව වෙනස් කරන්න</string>
+    <string name="change_password">මුරපදය වෙනස් කරන්න</string>
+    <string name="btn_logout">පිටවීම</string>
+    <string name="logout_confirm_title">පිටවන්නද?</string>
+    <string name="logout_confirm_message">ඔබට පිටවීමට අවශ්‍ය බව විශ්වාසද?</string>
+    <string name="current_password_hint">වර්තමාන මුරපදය</string>
+    <string name="new_password_hint">නව මුරපදය</string>
+    <string name="confirm_new_password_hint">නව මුරපදය තහවුරු කරන්න</string>
+    <string name="wrong_current_password">වර්තමාන මුරපදය වැරදිය.</string>
+    <string name="profile_updated">පැතිකඩ යාවත්කාලීන කරන ලදී.</string>
+    <string name="password_changed">මුරපදය සාර්ථකව වෙනස් කරන ලදී.</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="appearance">පෙනුම</string>
+    <string name="choose_theme">තේමාව තෝරන්න</string>
+    <string name="theme_light">ආලෝකමත්</string>
+    <string name="theme_dark">අඳුරු</string>
+    <string name="theme_system">පද්ධති පෙරනිමිය</string>
+</resources>

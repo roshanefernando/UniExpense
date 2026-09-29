@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_navy">#0B1220</color>
+    <color name="brand_navy_light">#111A2C</color>
+    <color name="brand_teal">#22C58B</color>
+    <color name="brand_green">#2FD673</color>
+    <color name="brand_blue">#2E8FF0</color>
+
+    <color name="primary">#22A876</color>
+    <color name="primary_dark">#178A5F</color>
+    <color name="accent">#2E8FF0</color>
+
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#101828</color>
+    <color name="text_secondary">#667085</color>
+    <color name="divider">#E4E7EC</color>
+
+    <color name="success">#22A876</color>
+    <color name="warning">#F79009</color>
+    <color name="danger">#E53935</color>
+
+    <color name="banner_warning_bg">#FFF4E5</color>
+    <color name="banner_danger_bg">#FFEBEE</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="cat_food">#F79009</color>
+    <color name="cat_transport">#2E8FF0</color>
+    <color name="cat_education">#7A5AF8</color>
+    <color name="cat_books">#EE46BC</color>
+    <color name="cat_hostel">#F04438</color>
+    <color name="cat_utilities">#0BA5EC</color>
+    <color name="cat_entertainment">#F63D68</color>
+    <color name="cat_shopping">#EAAA08</color>
+    <color name="cat_health">#12B76A</color>
+    <color name="cat_other">#98A2B3</color>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">செலவு கணிப்பான்</string>
+    <string name="splash_subtitle">சேமிக்க திட்டமிடுவோம்</string>
+
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="btn_continue">தொடரவும்</string>
+    <string name="lang_english">English</string>
+    <string name="lang_sinhala">සිංහල</string>
+    <string name="lang_tamil">தமிழ்</string>
+
+    <string name="login_title">உள்நுழைவு</string>
+    <string name="email_hint">மின்னஞ்சல்</string>
+    <string name="password_hint">கடவுச்சொல்</string>
+    <string name="btn_login">உள்நுழைய</string>
+    <string name="forgot_password">கடவுச்சொல் மறந்துவிட்டதா?</string>
+    <string name="no_account_register">கணக்கு இல்லையா? பதிவு செய்யவும்</string>
+    <string name="invalid_credentials">தவறான மின்னஞ்சல் அல்லது கடவுச்சொல்.</string>
+    <string name="empty_fields_error">அனைத்து புலங்களையும் நிரப்பவும்.</string>
+    <string name="invalid_email_error">சரியான மின்னஞ்சல் முகவரியை உள்ளிடவும்.</string>
+
+    <string name="register_title">கணக்கை உருவாக்கு</string>
+    <string name="full_name_hint">முழு பெயர்</string>
+    <string name="confirm_password_hint">கடவுச்சொல்லை உறுதிப்படுத்தவும்</string>
+    <string name="btn_register">பதிவு செய்யவும்</string>
+    <string name="back_to_login">உள்நுழைவுக்குத் திரும்பு</string>
+    <string name="registration_success">கணக்கு வெற்றிகரமாக உருவாக்கப்பட்டது. உள்நுழையவும்.</string>
+    <string name="passwords_do_not_match">கடவுச்சொற்கள் பொருந்தவில்லை.</string>
+    <string name="password_too_short">கடவுச்சொல் குறைந்தது 6 எழுத்துகளாக இருக்க வேண்டும்.</string>
+    <string name="email_already_exists">இந்த மின்னஞ்சலுடன் ஒரு கணக்கு ஏற்கனவே உள்ளது.</string>
+    <string name="name_required">பெயர் தேவை.</string>
+
+    <string name="forgot_password_title">கடவுச்சொல்லை மீட்டமை</string>
+    <string name="reset_password_button">கடவுச்சொல்லை மீட்டமை</string>
+    <string name="email_not_found">இந்த மின்னஞ்சலில் கணக்கு எதுவும் இல்லை.</string>
+    <string name="password_reset_success">கடவுச்சொல் மீட்டமைக்கப்பட்டது. புதிய கடவுச்சொல்லுடன் உள்நுழையவும்.</string>
+
+    <string name="dashboard_title">டாஷ்போர்டு</string>
+    <string name="total_income">மொத்த வருமானம்</string>
+    <string name="total_expenses">மொத்த செலவுகள்</string>
+    <string name="remaining_balance">மீதமுள்ள இருப்பு</string>
+    <string name="monthly_budget">மாதாந்திர பட்ஜெட்</string>
+    <string name="remaining_budget">மீதமுள்ள பட்ஜெட்</string>
+    <string name="add_expense">செலவு சேர்</string>
+    <string name="add_income">வருமானம் சேர்</string>
+    <string name="expense_history">செலவு வரலாறு</string>
+    <string name="budget">பட்ஜெட்</string>
+    <string name="reports">அறிக்கைகள்</string>
+    <string name="profile">சுயவிவரம்</string>
+    <string name="home">முகப்பு</string>
+    <string name="recent_expenses">சமீபத்திய செலவுகள்</string>
+    <string name="no_expenses_yet">இதுவரை செலவுகள் பதிவு செய்யப்படவில்லை.</string>
+    <string name="no_income_yet">இதுவரை வருமானம் பதிவு செய்யப்படவில்லை.</string>
+    <string name="budget_warning_exceeded">எச்சரிக்கை: உங்கள் மாதாந்திர பட்ஜெட்டை மீறிவிட்டீர்கள்.</string>
+    <string name="budget_warning_near">எச்சரிக்கை: உங்கள் மாதாந்திர பட்ஜெட்டில் பெரும்பகுதியைப் பயன்படுத்திவிட்டீர்கள்.</string>
+    <string name="greeting">வணக்கம், %1$s</string>
+
+    <string name="add_expense_title">செலவு சேர்</string>
+    <string name="edit_expense_title">செலவைத் திருத்து</string>
+    <string name="category_label">வகை</string>
+    <string name="amount_label">தொகை</string>
+    <string name="date_label">தேதி</string>
+    <string name="note_label">குறிப்பு (விருப்பம்)</string>
+    <string name="save_expense">செலவைச் சேமி</string>
+    <string name="btn_cancel">ரத்துசெய்</string>
+    <string name="amount_must_be_positive">தொகை பூஜ்ஜியத்தை விட அதிகமான எண்ணாக இருக்க வேண்டும்.</string>
+    <string name="category_required">ஒரு வகையைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="invalid_date">சரியான தேதியைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="expense_saved">செலவு சேமிக்கப்பட்டது.</string>
+    <string name="expense_updated">செலவு புதுப்பிக்கப்பட்டது.</string>
+
+    <string name="add_income_title">வருமானம் சேர்</string>
+    <string name="source_label">ஆதாரம்</string>
+    <string name="income_saved">வருமானம் சேமிக்கப்பட்டது.</string>
+    <string name="btn_save">சேமி</string>
+
+    <string name="expense_history_search_hint">வகை அல்லது குறிப்பைத் தேடு</string>
+    <string name="filter_all_categories">அனைத்து வகைகளும்</string>
+    <string name="sort_newest">புதியது முதலில்</string>
+    <string name="sort_oldest">பழையது முதலில்</string>
+    <string name="sort_amount_high">தொகை: அதிகம் முதல் குறைவு</string>
+    <string name="sort_amount_low">தொகை: குறைவு முதல் அதிகம்</string>
+    <string name="btn_edit">திருத்து</string>
+    <string name="btn_delete">நீக்கு</string>
+    <string name="delete_confirm_title">செலவை நீக்கவா?</string>
+    <string name="delete_confirm_message">இந்த செலவை நீக்க விரும்புகிறீர்களா?</string>
+    <string name="yes">ஆம்</string>
+    <string name="no">இல்லை</string>
+    <string name="no_expenses_recorded">இதுவரை செலவுகள் பதிவு செய்யப்படவில்லை.</string>
+    <string name="this_month">இந்த மாதம்</string>
+    <string name="all_time">எல்லா காலமும்</string>
+
+    <string name="budget_title">மாதாந்திர பட்ஜெட்</string>
+    <string name="set_monthly_budget">மாதாந்திர பட்ஜெட்டை அமை</string>
+    <string name="save_budget">சேமி</string>
+    <string name="spent_label">செலவழிக்கப்பட்டது</string>
+    <string name="remaining_label">மீதமுள்ளது</string>
+    <string name="used_label">பயன்படுத்தப்பட்டது</string>
+    <string name="no_budget_set">மாதாந்திர பட்ஜெட் அமைக்கப்படவில்லை.</string>
+    <string name="budget_exceeded_by">பட்ஜெட் %1$s ஆல் மீறப்பட்டது</string>
+    <string name="budget_amount_hint">தொகையை உள்ளிடவும்</string>
+    <string name="budget_saved">பட்ஜெட் சேமிக்கப்பட்டது.</string>
+
+    <string name="reports_title">அறிக்கைகள்</string>
+    <string name="summary_label">சுருக்கம்</string>
+    <string name="category_breakdown">வகை வாரியான பிரிவு</string>
+    <string name="monthly_summary">மாதாந்திர செலவு சுருக்கம்</string>
+    <string name="current_month">நடப்பு மாதம்</string>
+    <string name="previous_month">முந்தைய மாதம்</string>
+    <string name="not_enough_data">அறிக்கையை உருவாக்க போதுமான தரவு இல்லை.</string>
+    <string name="balance">இருப்பு</string>
+
+    <string name="profile_title">சுயவிவரம்</string>
+    <string name="edit_profile">சுயவிவரத்தைத் திருத்து</string>
+    <string name="change_language">மொழியை மாற்று</string>
+    <string name="change_password">கடவுச்சொல்லை மாற்று</string>
+    <string name="btn_logout">வெளியேறு</string>
+    <string name="logout_confirm_title">வெளியேறவா?</string>
+    <string name="logout_confirm_message">நீங்கள் வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="current_password_hint">தற்போதைய கடவுச்சொல்</string>
+    <string name="new_password_hint">புதிய கடவுச்சொல்</string>
+    <string name="confirm_new_password_hint">புதிய கடவுச்சொல்லை உறுதிப்படுத்தவும்</string>
+    <string name="wrong_current_password">தற்போதைய கடவுச்சொல் தவறானது.</string>
+    <string name="profile_updated">சுயவிவரம் புதுப்பிக்கப்பட்டது.</string>
+    <string name="password_changed">கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது.</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="appearance">தோற்றம்</string>
+    <string name="choose_theme">தீம் தேர்ந்தெடுக்கவும்</string>
+    <string name="theme_light">வெளிர்</string>
+    <string name="theme_dark">இருள்</string>
+    <string name="theme_system">கணினி இயல்புநிலை</string>
+</resources>

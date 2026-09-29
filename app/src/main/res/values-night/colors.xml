@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Same names as values/colors.xml - only the dark-mode-relevant tokens are
+         overridden. Brand colors (primary, teal, green, blue) stay identical in
+         both modes so the app still looks like the same brand. -->
+    <color name="background">#10151F</color>
+    <color name="surface">#1A2233</color>
+    <color name="text_primary">#F2F4F7</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="divider">#2A3347</color>
+
+    <color name="banner_warning_bg">#3A2B12</color>
+    <color name="banner_danger_bg">#3A1518</color>
+</resources>
